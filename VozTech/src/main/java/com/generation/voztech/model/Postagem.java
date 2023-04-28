@@ -35,15 +35,19 @@ package com.generation.voztech.model;
 		
 		@UpdateTimestamp
 		private LocalDateTime data;
+		
+		@ManyToOne
+		@JsonIgnoreProperties("postagem")
+		private Usuario usuario;
+
+		@ManyToOne
+		@JsonIgnoreProperties("postagem")
+		private Tema tema;
 
 		public Long getId() {
 			return id;
 		}
 		
-		@ManyToOne
-		@JsonIgnoreProperties("postagem")
-		private Tema tema;
-
 		public void setId(Long id) {
 			this.id = id;
 		}
