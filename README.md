@@ -1,4 +1,6 @@
-![Logo VozTech](https://ik.imagekit.io/projetovoztech/voztech1.png?updatedAt=1684763923814)
+<p align="center">
+  <img src="https://ik.imagekit.io/projetovoztech/voztech1.png?updatedAt=1684763923814" alt="Logo VozTech" width="200"/>
+</p>
 
 # VozTech
 
