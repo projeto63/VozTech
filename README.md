@@ -9,6 +9,11 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-valid-blue)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![SCRUM](https://img.shields.io/badge/SCRUM-Agil-orange)](https://www.scrum.org/)
 
+## Repositórios Relacionados
+
+- [Repositório do Back-end](https://github.com/projeto63/VozTech)
+- [Repositório do Render](https://github.com/projeto63/Render)
+
 ## Descrição
 
 O VozTech é uma rede social que conecta e prioriza a comunidade, buscando semear oportunidades de profissionalização, além de lidar com demandas sociais e de infraestrutura. Com base na ODS da ONU "8.3 Até 2020, reduzir substancialmente a proporção de jovens sem emprego, educação ou formação", nosso projeto visa oferecer interações entre os usuários, fornecendo informações atualizadas sobre onde buscar ajuda de acordo com o problema e parcerias disponíveis para a comunidade. Nessa primeira versão, é possível cadastrar, atualizar, publicar e excluir postagens relacionadas a temas e usuários, utilizando um sistema de CRUD. Além disso, o VozTech possui perfis personalizados, uma área de busca por cursos, oportunidades e contatos de canais de ajuda para apoio social. O sistema foi desenvolvido utilizando o Spring Boot para o back-end e o React para o front-end, proporcionando uma experiência amigável e responsiva.
