@@ -1,4 +1,4 @@
-(https://ik.imagekit.io/projetovoztech/voztech1.png?updatedAt=1684763923814)
+![Logo VozTech](https://ik.imagekit.io/projetovoztech/voztech1.png?updatedAt=1684763923814)
 
 # VozTech
 
@@ -13,7 +13,7 @@
 
 ## Repositórios Relacionados
 
-- [Repositório do Back-end](https://github.com/projeto63/VozTech)
+- [Repositório do Front-end](https://github.com/projeto63/FrontEnd-VozTech)
 - [Repositório do Render](https://github.com/projeto63/Render)
 
 ## Descrição
