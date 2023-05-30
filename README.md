@@ -1,3 +1,5 @@
+(https://ik.imagekit.io/projetovoztech/voztech1.png?updatedAt=1684763923814)
+
 # VozTech
 
 [![Java](https://img.shields.io/badge/Java-8-blue)](https://www.java.com/)
@@ -69,7 +71,7 @@ Após seguir as instruções de instalação, você pode utilizar o projeto VozT
 
 O projeto VozTech foi desenvolvido pelos seguintes colaboradores:
 
-| ![Adriane Felicio de Souza](./imagens/adriane.jpg) | ![Bianca Melquiades do Espirito Santo](./imagens/bianca.jpg) | ![Bruna Santos Alencar](./imagens/bruna.jpg) | ![Christian Bonetti Silva](./imagens/christian.jpg) | ![Gustavo Leal Traves](./imagens/gustavo.jpg) |
+| ![Adriane Felicio de Souza](https://avatars.githubusercontent.com/u/104842262?v=4) | ![Bianca Melquiades do Espirito Santo](https://avatars.githubusercontent.com/u/127569557?v=4) | ![Bruna Santos Alencar](https://avatars.githubusercontent.com/u/127234605?v=4) | ![Christian Bonetti Silva](https://avatars.githubusercontent.com/u/105250514?v=4) | ![Gustavo Leal Traves](https://avatars.githubusercontent.com/u/123138088?v=4) |
 | :------------------------------------------------: | :---------------------------------------------------------: | :----------------------------------------: | :------------------------------------------------: | :-----------------------------------------: |
 |           Adriane Felicio de Souza                 |              Bianca Melquiades do Espirito Santo              |             Bruna Santos Alencar             |               Christian Bonetti Silva               |             Gustavo Leal Traves              |
 
